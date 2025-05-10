@@ -1,0 +1,14 @@
+[project]
+name = "beatbuddy"
+version = "0.1.0"
+description = "Music Recommendation System"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.3",
+    "notebook>=7.4.2",
+    "numpy>=2.2.5",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+]
